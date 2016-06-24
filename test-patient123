@@ -1,0 +1,7 @@
+[
+  {"id" : "1000" , "first name" : "Joseph" , "last name" : "Johnson" , "phone number" : "852-852-7412" , "gender" : "male"},
+  {"id" : "1001" , "first name" : "Kaley" , "last name" : "Oliviette" , "phone number" : "852-698-8547" , "gender" : "female"},
+  {"id" : "1002" , "first name" : "Jackson" , "last name" : "Phillips" , "phone number" : "178-852-6967" , "gender" : "male"},
+  {"id" : "1003" , "first name" : "Michael" , "last name" : "Latid" , "phone number" : "636-551-5555" , "gender" : "male"},
+  {"id" : "1004" , "first name" : "Michelle" , "last name" : "Alexandria" , "phone number" : "258-357-7913" , "gender" : "female"}
+]
