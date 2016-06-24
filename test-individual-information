@@ -1,0 +1,6 @@
+[
+  {"id" : "12345" , "first name" : "Johnathan", "last name" : "Wilson" , "phone number" : "459-589-8587" , "gender" : "male"},
+  {"id" : "12346" , "first name" : "Jacob", "last name" : "Lopher" , "phone number" : "888-954-5874" , "gender" : "male"},
+  {"id" : "12347" , "first name" : "Alexandra", "last name" : "Gomez" , "phone number" : "852-963-7412" , "gender" : "female"},
+  {"id" : "12345" , "first name" : "Johnathan", "last name" : "Wilson" , "phone number" : "459-589-8587" , "gender" : "male"}
+]
